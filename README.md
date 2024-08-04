@@ -13,6 +13,9 @@
 - [El tutorial de Python #2: Control de Flujo Avanzado y Funciones](https://angeldev-blog.vercel.app/blog/python/tutorial-python-02/)
 - [El tutorial de Python #1: Tutorial oficial](https://angeldev-blog.vercel.app/blog/python/tutorial-python/)
 
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelB-Dev&layout=compact&theme=dark)
+
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
