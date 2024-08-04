@@ -1,3 +1,5 @@
+Front-end developer and AI enthusiast with a passion for creating high-quality web applications. I'm constantly exploring new technologies and pushing the boundaries of what's possible in web development. My journey in tech is driven by curiosity and the desire to build innovative solutions that make a difference.
+
 - 👋 Hi, I'm @AngelB-Dev
 - 👀 I'm interested in Front-end and Artificial Intelligence
 - 🌱 I'm currently learning Python and exploring its applications in AI
@@ -15,7 +17,7 @@
 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelB-Dev&layout=compact&theme=dark&bg_color=0D1117&hide_border=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelB-Dev&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=ff6e96&text_color=ffffff" width="500">
+<img src="https://github-readme-stats.vercel.app/api?username=AngelB-Dev&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
