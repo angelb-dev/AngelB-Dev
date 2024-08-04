@@ -15,6 +15,7 @@
 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelB-Dev&layout=compact&theme=dark&bg_color=0D1117&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelB-Dev&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=ff6e96&text_color=ffffff" width="500">
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
