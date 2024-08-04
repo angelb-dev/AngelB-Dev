@@ -13,7 +13,7 @@ Front-end developer and AI enthusiast with a passion for creating high-quality w
 - [El tutorial de Python #1: Tutorial oficial](https://angeldev-blog.vercel.app/blog/python/tutorial-python/)
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelB-Dev&layout=compact&theme=dark&bg_color=0D1117&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelB-Dev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 <img src="https://github-readme-stats.vercel.app/api?username=AngelB-Dev&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 ## Technologies
