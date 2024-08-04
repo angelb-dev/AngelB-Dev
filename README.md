@@ -1,4 +1,4 @@
-Front-end developer and AI enthusiast with a passion for creating high-quality web applications. I'm constantly exploring new technologies and pushing the boundaries of what's possible in web development. My journey in tech is driven by curiosity and the desire to build innovative solutions that make a difference.
+Front-end developer with a focus on AI, experienced in JavaScript and Python. My tech journey focuses on creating innovative solutions that make a real difference.
 
 - 👀 I'm interested in Front-end and Artificial Intelligence
 - 🌱 I'm currently learning Python and exploring its applications in AI
