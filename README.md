@@ -1,6 +1,5 @@
 Front-end developer and AI enthusiast with a passion for creating high-quality web applications. I'm constantly exploring new technologies and pushing the boundaries of what's possible in web development. My journey in tech is driven by curiosity and the desire to build innovative solutions that make a difference.
 
-- 👋 Hi, I'm @AngelB-Dev
 - 👀 I'm interested in Front-end and Artificial Intelligence
 - 🌱 I'm currently learning Python and exploring its applications in AI
 - 💞️ I'm looking to collaborate on innovative web projects and AI-powered applications
