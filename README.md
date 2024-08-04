@@ -6,11 +6,11 @@ Front-end developer with a focus on AI, experienced in JavaScript and Python. My
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/leo-beneman/)
 
 ## 📝 Últimos artículos en mi [Angeldev-blog](https://angeldev-blog.vercel.app/)
+- [El tutorial de Python #4: La clave para organizar y reutilizar tu código](https://angeldev-blog.vercel.app/blog/python/tutorial-python-04/)
 - [Front-end y Back-end: ¿Qué es?](https://angeldev-blog.vercel.app/blog/programacion/frontend-backend/)
 - [El tutorial de Python #3: Listas y Métodos de Estructuras de Datos](https://angeldev-blog.vercel.app/blog/python/tutorial-python-03/)
 - [Stack Overflow: Los Lenguajes de Programación Más Populares en 2024](https://angeldev-blog.vercel.app/blog/programacion/stackoverflow/)
 - [El tutorial de Python #2: Control de Flujo Avanzado y Funciones](https://angeldev-blog.vercel.app/blog/python/tutorial-python-02/)
-- [El tutorial de Python #1: Tutorial oficial](https://angeldev-blog.vercel.app/blog/python/tutorial-python/)
 
 ## 📊 Most Used Languages
 <div align="center">
