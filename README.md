@@ -7,8 +7,11 @@
 - ⚡ When not coding, I enjoy playing.
 
 ## 📝 Últimos artículos en mi [Angeldev-blog](https://angeldev-blog.vercel.app/)
-
-
+- [Front-end y Back-end: ¿Qué es?](https://angeldev-blog.vercel.app/blog/programacion/frontend-backend/)
+- [El tutorial de Python #3: Listas y Métodos de Estructuras de Datos](https://angeldev-blog.vercel.app/blog/python/tutorial-python-03/)
+- [Stack Overflow: Los Lenguajes de Programación Más Populares en 2024](https://angeldev-blog.vercel.app/blog/programacion/stackoverflow/)
+- [El tutorial de Python #2: Control de Flujo Avanzado y Funciones](https://angeldev-blog.vercel.app/blog/python/tutorial-python-02/)
+- [El tutorial de Python #1: Tutorial oficial](https://angeldev-blog.vercel.app/blog/python/tutorial-python/)
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
