@@ -13,6 +13,16 @@
 - [El tutorial de Python #2: Control de Flujo Avanzado y Funciones](https://angeldev-blog.vercel.app/blog/python/tutorial-python-02/)
 - [El tutorial de Python #1: Tutorial oficial](https://angeldev-blog.vercel.app/blog/python/tutorial-python/)
 
+<img src="https://readme-components.vercel.app/api?component=logo&fill=f7df1e&logo=javascript&svgfill=f7df1e" width="90" height="90">
+  
+## JS
+  
+<br>
+  
+## Most Used Languages
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelB-Dev&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=ff6e96&text_color=ffffff" width="500">
+
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelB-Dev&layout=compact&theme=dark&bg_color=0D1117&hide_border=true)
 
