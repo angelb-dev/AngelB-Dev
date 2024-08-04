@@ -4,8 +4,6 @@ Front-end developer and AI enthusiast with a passion for creating high-quality w
 - 🌱 I'm currently learning Python and exploring its applications in AI
 - 💞️ I'm looking to collaborate on innovative web projects and AI-powered applications
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/leo-beneman/)
-- 😄 Pronouns: Winter/ZeroTF
-- ⚡ When not coding, I enjoy playing.
 
 ## 📝 Últimos artículos en mi [Angeldev-blog](https://angeldev-blog.vercel.app/)
 - [Front-end y Back-end: ¿Qué es?](https://angeldev-blog.vercel.app/blog/programacion/frontend-backend/)
