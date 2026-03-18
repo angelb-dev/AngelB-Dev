@@ -1,8 +1,9 @@
-Front-end developer with a focus on AI, experienced in JavaScript and Python. My tech journey focuses on creating innovative solutions that make a real difference.
+Full Stack Developer focused on building real, deployable products fast. Experienced in Next.js, TypeScript, Node.js and AI integration.
 
-- 👀 I'm interested in Front-end and Artificial Intelligence
-- 🌱 I'm currently learning Python and exploring its applications in AI
-- 💞️ I'm looking to collaborate on innovative web projects and AI-powered applications
+- 👀 Interested in Full Stack development and AI-powered applications
+- 🌱 Currently building one project per day using AI as a development tool
+- 💞️ Looking to collaborate on innovative web projects with real impact
+- 🚀 Recent projects: FinTrack, CVGenius, Zenith, NexusChat
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/leo-beneman/)
 
 ## 📝 Últimos artículos en mi [Angeldev-blog](https://angeldev-blog.vercel.app/)
